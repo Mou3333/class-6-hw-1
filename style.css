@@ -1,0 +1,46 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.product-card{
+    width: 500px;
+    height: 300px;
+}
+.image{
+width: 210.750px;
+height: 210.750px;
+padding: 20px;
+
+
+}
+h3{
+    padding-top:15px;
+}
+.details{
+  width: 50%; 
+  padding: 15px;
+   margin: 5px;
+}
+ul{
+    padding: 10px;
+    margin: 5px;
+    font-size: 17px;
+}
+p{
+    margin-top: 3px;
+    text-align: center;
+    padding: 1px;
+}
+
+#btn1,#btn2{
+  width: 230px;
+  padding: 8px;
+  margin : 3px;
+}
+#btn1{
+    background-color: blue;
+    color:azure;
+    font-size: 15px;
+}
