@@ -16,26 +16,26 @@ box-sizing: border-box;
 width: 210.750px;
 height: 210.750px;
 padding: 20px;
-background-color:#ffff;    
+background-color:#ffffff;    
 
 
 }
 h3{
     padding-top:15px;
-    background-color:#ffff;    
+    background-color:#ffffff;    
 
 }
 .details{ 
   padding: 15px;
    margin: 5px;
-  background-color:#ffff;    
+  background-color:#ffffff;    
   
 }
 ul{
     padding: 10px;
     margin: 5px;
     font-size: 17px;
-    background-color:#ffff;    
+    background-color:#ffffff;    
 
 }
 p{
@@ -44,7 +44,7 @@ p{
     padding: 1px;
     font-size:20px;
     color:red;
-    background-color:#ffff;   
+    background-color:#ffffff;   
 
 }
 
