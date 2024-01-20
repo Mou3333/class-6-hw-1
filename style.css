@@ -5,39 +5,56 @@ box-sizing: border-box;
 
 }
 .product-card{
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 600px;
+    border:1px solid rgb(151,150,150);
+    margin-left:8px;
+    margin-top:5px;
+    border-radius:5px;
 }
 .image{
 width: 210.750px;
 height: 210.750px;
 padding: 20px;
+background-color:#ffff    
 
 
 }
 h3{
     padding-top:15px;
+    background-color:#ffff;    
+
 }
-.details{
-  width: 50%; 
+.details{ 
   padding: 15px;
    margin: 5px;
+  background-color:#ffff;    
+  
 }
 ul{
     padding: 10px;
     margin: 5px;
     font-size: 17px;
+    background-color:#ffff;    
+
 }
 p{
     margin-top: 3px;
     text-align: center;
     padding: 1px;
+    font-size:20px;
+    color:red;
+    background-color:#ffff ;   
+
 }
 
 #btn1,#btn2{
   width: 230px;
   padding: 8px;
-  margin : 3px;
+  margin: 0px;
+ background-color: #ffff;
+    text-align: center;
+    
 }
 #btn1{
     background-color: blue;
